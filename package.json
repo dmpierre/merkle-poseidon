@@ -1,4 +1,5 @@
 {
+  "name": "merkle-poseidon",
   "devDependencies": {
     "circomlibjs": "^0.1.7",
     "typescript": "^4.8.4"
